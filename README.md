@@ -5,7 +5,7 @@ Plotline Toolkit is a React application that demonstrates the usage of tooltips 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/chandan0134/plotline_frontend/master/plotline.png?token=GHSAT0AAAAAACDVXXHR4CO6AJCZZKVCGVISZHFD47Q)
 
 ## Features
 
