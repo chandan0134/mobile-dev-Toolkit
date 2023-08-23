@@ -17,7 +17,7 @@ Plotline Toolkit is a React application that demonstrates the usage of tooltips 
 The application is deployed using Netlify. You can access the deployed site using the following link:
 
 ```bash
-  https://plotlinetoolkit.netlify.app/
+  https://plotlinetoolkit.netlify.app
 ```
 
 ## Getting Started
